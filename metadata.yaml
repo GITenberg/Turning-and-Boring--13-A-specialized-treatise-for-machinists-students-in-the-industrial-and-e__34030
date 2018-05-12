@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36690'
     url: http://www.gutenberg.org/2009/agents/36690
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34030#Turning-and-Boring--13-A-specialized-treatise-for-machinists-students-in-the-industrial-and-e_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2010-10-04'
 gutenberg_type: Text
